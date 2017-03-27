@@ -3,16 +3,18 @@
 
 ___
 
-#### Catch of the Day (React Tutorial)
-A recently completed tutorial (Wes Bos) of the React framework.
-
-[Catch of the Day - website](http://www.salvatore.us/catchoftheday)  
-
 #### TopAlbums - iTunes top albums
 This responsive web app (AngularJS) retrieves the top rated albums currently on iTunes and presents the information in an engaging way. My design process began by listing the available data from the feed then prioritizing that data according to a user perspective. That prioritization resulted in making the album art the key element in the UI. The album art is the main element users interact with to get album details and link to iTunes. The layout was designed to respond to the width of the user's viewport to assure the design looks good and functions well in all widths and devices.
 
 [TopAlbums - website](http://www.salvatore.us/topalbums)  
 [TopAlbums - codebase](https://github.com/marksalvatore/topalbums)
+
+___
+
+#### Catch of the Day (React Tutorial)
+A recently completed tutorial (Wes Bos) of the React framework.
+
+[Catch of the Day - website](http://www.salvatore.us/catchoftheday)  
 
 ___
 
