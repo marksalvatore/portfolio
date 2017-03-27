@@ -1,29 +1,39 @@
 # Mark Salvatore - Web Developer Portfolio
 [Download Resume (pdf)](marksalvatore-webdeveloper.pdf)
 
-##### TECHNOLOGIES
-Mac/Linux • AWS • PHP/Codeigniter • MySQL • Apache • Javascript • jQuery • CSS3 • AngularJS • Wordpress • Bootstrap • Greensock • XML • JSON • AJAX • HTML5
+___
 
-##### TOOLS
-Git • Bash • Grunt/Gulp • Sass/Less • Modernizr • LiveReload
+#### Catch of the Day (React Tutorial)
+A recently completed tutorial (Wes Bos) of the React framework.
 
+[Catch of the Day - website](http://www.salvatore.us/catch)  
+
+#### TopAlbums - iTunes top albums
+This responsive web app (AngularJS) retrieves the top rated albums currently on iTunes and presents the information in an engaging way. My design process began by listing the available data from the feed then prioritizing that data according to a user perspective. That prioritization resulted in making the album art the key element in the UI. The album art is the main element users interact with to get album details and link to iTunes. The layout was designed to respond to the width of the user's viewport to assure the design looks good and functions well in all widths and devices.
+
+[TopAlbums - website](http://www.salvatore.us/topalbums)  
+[TopAlbums - codebase](https://github.com/marksalvatore/topalbums)
 
 ___
 
-### Angular Component Library
+### Component Library (AngularJS)
 This project is a collection of common features, user-interactions I find myself building over and over. This particular approach uses the custom element directive in the AngularJS framework to code interactions into reusable components. The approach groups the parts of each interaction&mdash;html/css/js and data&mdash;into its own directory. To use a component, simply copy the component's directory into your project, and then paste the html element for that component into your template. The component would rarely, if ever look and behave exactly as you need it, but at least the basic structure and behavior would be in place, ready for you to evolve the feature into what you want.
 
-[Angular Component Library](http://www.salvatore.us/anglib)
+[Component Library - website](http://www.salvatore.us/anglib)  
+[Component Library - codebase](https://github.com/marksalvatore/anglib)
 
 ___
 
-### Coding example in AngularJS
-This example is from a recent coding challenge where the objective was to demonstrate style and approach. The requirements for the app:
-+ Log in to retrieve session token.
-+ Use token to query list of content categories.
-+ Link each category to API call that retrieves and displays associated content.
+### Calling an API with a session token (AngularJS)
+This example is from a recent coding challenge where the objective was to demonstrate coding style and approach.
 
-[AngularJS code example](https://github.com/marksalvatore/angapi)
+Requirements:
++ Log in to retrieve a session token.
++ Use session token to query a list of content categories.
++ Link each category to call/retrieve and display associated content.
+
+[Website not available]  
+[codebase](https://github.com/marksalvatore/angcodechallenge)
 
 ___
 
