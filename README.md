@@ -1,4 +1,4 @@
-# Mark Salvatore - Web Developer Portfolio
+# Mark Salvatore - Portfolio
 [Download Resume (pdf)](marksalvatore-webdeveloper.pdf)
 
 ___
@@ -14,7 +14,7 @@ ___
 #### Catch of the Day (React Tutorial)
 A recently completed tutorial (Wes Bos) of the React framework.
 
-[Catch of the Day - website](http://www.salvatore.us/catchoftheday) 
+[Catch of the Day - website](http://www.salvatore.us/catchoftheday)  
 [Catch of the Day - codebase](https://github.com/marksalvatore/reactcourse) 
 
 ___
