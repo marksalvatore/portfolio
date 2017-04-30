@@ -1,6 +1,12 @@
 # Mark Salvatore - Portfolio
 [Download Resume (pdf)](marksalvatore-webdeveloper.pdf)
 
+#### Rutinas - Improve Your Pool Game (React)
+Rutinas is a web app for mobile, built in React and using LocalStorage to track and monitor the progress of a pool player's performance of their selected practice drills. See rutinas_dev in my account for the development files.
+
+[Rutinas - website](http://rutinas.salvatore.us)  
+[Rutinas - codebase](https://github.com/marksalvatore/rutinas_dev)
+
 ___
 
 #### TopAlbums - iTunes top albums
@@ -8,14 +14,6 @@ This responsive web app (AngularJS) retrieves the top rated albums currently on 
 
 [TopAlbums - website](http://www.salvatore.us/topalbums)  
 [TopAlbums - codebase](https://github.com/marksalvatore/topalbums)
-
-___
-
-#### Catch of the Day (React Tutorial)
-A recently completed tutorial (Wes Bos) of the React framework.
-
-[Catch of the Day - website](http://www.salvatore.us/catchoftheday)  
-[Catch of the Day - codebase](https://github.com/marksalvatore/reactcourse) 
 
 ___
 
