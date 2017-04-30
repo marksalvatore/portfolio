@@ -1,8 +1,9 @@
 # Mark Salvatore - Portfolio
 [Download Resume (pdf)](marksalvatore-webdeveloper.pdf)
+___
 
 #### Rutinas - Improve Your Pool Game (React)
-Rutinas is a web app for mobile, built in React and using LocalStorage to track and monitor the progress of a pool player's performance of their selected practice drills. See rutinas_dev in my account for the development files.
+Rutinas is a web app for mobile, built in React and using LocalStorage to track and monitor the progress of a pool player's performance of their selected practice drills.
 
 [Rutinas - website](http://rutinas.salvatore.us)  
 [Rutinas - codebase](https://github.com/marksalvatore/rutinas_dev)
